@@ -117,20 +117,20 @@ class Anshika:
 </td>
 <td width="50%" valign="top">
 
-### 📄 AI Resume Builder
-> Smart Resume Creation App
+### 🏡 WanderLust
+> Full-Stack Vacation Rental Platform
 
 **Highlights:**
-- 📝 Create professional resumes fast
-- 🎨 Clean templates & layouts
-- ⚡ Built with React & Redux
+- 🏠 Browse, list & manage rental properties
+- 🗺️ Interactive maps with Mapbox integration
+- 🔐 Secure auth with Passport.js & session management
 - 📱 Fully responsive design
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Mapbox](https://img.shields.io/badge/-Mapbox-000000?style=flat-square&logo=mapbox&logoColor=white)
 
 
 </td>
