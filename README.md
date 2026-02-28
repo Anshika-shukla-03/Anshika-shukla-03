@@ -149,7 +149,7 @@ class Anshika:
 
 <br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-shukla-03&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-shukla-03&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" /> -->
 
 </div>
 
