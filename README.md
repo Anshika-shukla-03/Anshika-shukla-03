@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anshika%20Shukla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20DSA%20in%20C%2B%2B%20%7C%20AI%2FML%20Explorer&descAlignY=55&descSize=16"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🚀+Building+AI-powered+Full+Stack+Apps;💻+Solving+DSA+Problems+in+C%2B%2B+Daily;🤖+Exploring+Machine+Learning+%26+NLP;✨+BTech+CSE+%7C+She%2FHer+%7C+Let's+build+something+great!" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=🚀+Building+AI-powered+Full+Stack+Apps;💻+Solving+DSA+Problems+in+C%2B%2B+Daily;🤖+Exploring+Machine+Learning+%26+NLP;✨+BTech+CSE+%7C+She%2FHer+%7C+Let's+build+something+great!" /> -->
 
 <br/>
 
@@ -112,7 +112,7 @@ class Anshika:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/-OpenRouter_AI-FF6B6B?style=flat-square)
 
-[![View Repo](https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshika-shukla-03/InterviewIQ)
+
 
 </td>
 <td width="50%" valign="top">
@@ -131,7 +131,7 @@ class Anshika:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/🔗_View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/Anshika-shukla-03/AI-Resume-Builder)
+
 
 </td>
 </tr>
@@ -151,14 +151,6 @@ class Anshika:
 
 <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anshika-shukla-03&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
 
-</div>
-
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Anshika-shukla-03&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=7"/>
 </div>
 
 ---
