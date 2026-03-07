@@ -168,16 +168,6 @@ class Anshika:
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anshika-shukla-03&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's Connect & Build Together!
