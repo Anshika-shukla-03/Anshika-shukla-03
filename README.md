@@ -20,7 +20,6 @@
 ```python
 class Anshika:
     name       = "Anshika Shukla"
-    pronouns   = "she / her"
     education  = "B.Tech CSE 🎓"
     location   = "India 🇮🇳"
 
@@ -29,14 +28,13 @@ class Anshika:
         "backend"   : ["Node.js", "Express.js", "REST APIs", "Auth & Authorization"],
         "database"  : ["MongoDB", "MySQL"],
         "languages" : ["C", "C++", "Python", "JavaScript"],
-        "ai_ml"     : ["NumPy", "Pandas", "Matplotlib", "Scikit-Learn", "NLP 🔄"],
-        "dsa"       : "Daily practice in C++ 💪",
+        "ai_ml"     : ["NumPy", "Pandas", "Matplotlib", "Scikit-Learn", "NLP "],
+        "dsa"       : "Daily practice in C++ ",
         "tools"     : ["Git", "GitHub", "VS Code", "Firebase", "Postman"]
     }
 
     currently_learning = ["Machine Learning", "NLP", "Deep Learning"]
     open_to            = ["Collaborations", "Open Source", "Internships"]
-    fun_fact           = "I craft apps AND solve real problems with code ✨"
 ```
 
 ---
