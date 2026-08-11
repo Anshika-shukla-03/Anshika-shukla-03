@@ -146,24 +146,7 @@ class Anshika:
 
 ---
 
-## 🗺️ My Learning Roadmap
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                      MY JOURNEY SO FAR                          ║
-╠══════════════════════════════════════════════════════════════════╣
-║  ✅  HTML, CSS, JavaScript, Bootstrap      ——  MASTERED         ║
-║  ✅  React.js + Redux Toolkit              ——  MASTERED         ║
-║  ✅  Node.js, Express.js, REST APIs        ——  MASTERED         ║
-║  ✅  MongoDB, MySQL, Firebase Auth         ——  MASTERED         ║
-║  ✅  C, C++, OOP Concepts                  ——  MASTERED         ║
-║  ✅  Python, NumPy, Pandas, Matplotlib     ——  DONE             ║
-║  ✅  DSA Fundamentals in C++               ——  DONE             ║
-║  🔄  Machine Learning (Supervised)         ——  IN PROGRESS      ║
-║  🔄  NLP & Text Processing                ——  IN PROGRESS      ║
-║  🔄  Advanced DSA (DP, Graphs, Trees)      ——  IN PROGRESS      ║
-║  ⏳  Deep Learning & Neural Networks       ——  COMING SOON      ║
-╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
@@ -184,7 +167,7 @@ class Anshika:
 
 <br/><br/>
 
-> *"Crafting web apps & solving real problems with code ✨ | Let's build something great! 🚀"*
+> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
