@@ -147,10 +147,7 @@ class Anshika:
 ---
 
 
-```
-
 <div align="center">
-
 
 <a href="https://linkedin.com/in/anshika-shukla-7531a1328">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -165,8 +162,6 @@ class Anshika:
 </a>
 
 <br/><br/>
-
-> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
