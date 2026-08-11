@@ -151,7 +151,6 @@ class Anshika:
 
 <div align="center">
 
-### 🤝 Let's Connect & Build Together!
 
 <a href="https://linkedin.com/in/anshika-shukla-7531a1328">
   <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
